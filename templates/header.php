@@ -8,5 +8,6 @@
 	</head>
 	<body>
 		<header>
-			<h1>Chaussons disponibles</h1>
+			<h1>Shop'O'Clock</h1>
+			<p>Bienvenue dans la boutique O'clock</p>
 		</header>
